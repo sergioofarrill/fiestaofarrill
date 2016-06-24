@@ -4,10 +4,9 @@
 
 	"default": {
 
-		"host": "fiestaofarrill@moroccoblu
-.com",
-		"username": "sergioofarrill@moroccoblu.com",  // or null for anonymous login
-		"password": "Blindman0811",
+		"host": "ftp.moroccoblu.com",
+		"username": "fiestaofarrill@moroccoblu.com ",  // or null for anonymous login
+		"password": "Picasso89",
 		"path": "/",
 
 		"upload_on_save": true, // set *false* if you do not want to upload on save!
